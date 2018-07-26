@@ -1,0 +1,6 @@
+faça layout e coloca em arquivo separado
+
+cabeçalho e rodape tirar os links e cdn, colocar no cabeçalho ,javascript do footer e colocar no ropape, do mesmo recortar js e font, colocar arquivo assets
+
+include, criar arquivo menu exclusivo menu.php
+ ATUALIZAR O ARQUIVO ConfigView.php
